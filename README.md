@@ -1,4 +1,3 @@
-TODO:need to work on this
 # Introduction
  This project analyzes the data analyst job market, highlighting  high-paying roles, in-demand skills, and the intersection of strong demand and competitive salaries in data analytics.
  SQL queries? Check them out here: [project_sql folder](/project_files_sql/)
